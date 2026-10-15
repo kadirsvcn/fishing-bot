@@ -1,4 +1,3 @@
-# MetinFishingCV 
 A computer vision bot for the mini fishing game in metin2.<br>
 It uses mainly OpenCV and an Arduino to send mouse commands.
 
